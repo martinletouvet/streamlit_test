@@ -1,8 +1,8 @@
-matplotlib @ file:///C:/ci/matplotlib-suite_1613408055530/work
+matplotlib
 matplotlib-inline==0.1.2
 numpy==1.21.0
 opencv-contrib-python==4.5.2.52
-pandas @ file:///C:/ci/pandas_1624383612827/work
-plotly @ file:///tmp/build/80754af9/plotly_1610565580232/work
-seaborn @ file:///tmp/build/80754af9/seaborn_1608578541026/work
+pandas
+plotly
+seaborn
 streamlit==0.84.0
